@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Dos Livros à Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Uma tirinha visual que retrata a evolução da programação ao longo do tempo, desde a era dos livros e aprendizado tradicional até a revolução das IAs generativas. O projeto mostra três gerações de programadores e como a tecnologia transformou a forma de trabalhar e aprender a programar.
+
+## 🎨 Imagem do Projeto
+
+![Dos Livros à Inteligência Artificial](./assets/comic-ia.jpg)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- **ChatGPT**: Utilizado para construir e refinar a ideia do conceito da tirinha
+- **PartyRock (AWS)**: Geração das imagens com IA generativa para cada painel
+- **Canvas**: Criação dos balões de diálogo, textos, edição final e composição visual da tirinha
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. **Ideação (ChatGPT)**: Construção do conceito narrativo - a jornada do programador desde os primórdios da programação até a era da IA
+2. **Geração de Imagens (PartyRock AWS)**: Criação de imagens estilizadas para cada painel da tirinha:
+   - Painel 1: Criança aprendendo com livros e computadores antigos
+   - Painel 2: Programador adulto em ambiente moderno com múltiplos monitores e Stack Overflow
+   - Painel 3: Programador sênior com IA, utilizando assistentes inteligentes
+3. **Design e Diálogos (Canvas)**: 
+   - Adição de balões de fala com mensagens significativas
+   - Composição visual dos três painéis
+   - Ajustes de cores, tipografia e elementos visuais
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Uma história visual impactante que captura a essência da transformação tecnológica e como a IA generativa está redefinindo a profissão de desenvolvedor. A tirinha é tanto uma reflexão humorística quanto uma homenagem à evolução constante da área de programação.
 
-### Exemplos e Insigths
+## 💭 Reflexão
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto demonstra na prática como as IAs generativas não apenas facilitam a criação de conteúdo, mas também permitem que ideias complexas sejam expressas de forma visual e acessível. A combinação de ChatGPT (criatividade), PartyRock (geração de imagens) e Canvas (edição visual) mostrou-se uma abordagem poderosa e "natty" para produzir conteúdo de alta qualidade sem ser percebido como puramente artificial.
