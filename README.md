@@ -6,7 +6,7 @@ Uma tirinha visual que retrata a evolução da programação ao longo do tempo, 
 
 ## 🎨 Imagem do Projeto
 
-![Dos Livros à Inteligência Artificial](./assets/comic-ia.jpg)
+![Dos Livros à Inteligência Artificial](./assets/comic-ia.png)
 
 ## 🤖 Tecnologias Utilizadas
 
